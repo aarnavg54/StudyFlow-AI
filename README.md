@@ -1,9 +1,8 @@
 # StudyFlow-AI
-# StudyFlow AI
 
 StudyFlow AI is a frontend-only student productivity dashboard designed to help students organize assignments, track study habits, and improve academic efficiency through a clean and modern interface.
 
-This project was created as a computer science finals project and demonstrates how AI-assisted development can accelerate frontend application design while still requiring human planning, design decisions, and project direction.
+This project was created as a computer science final project and demonstrates how AI-assisted development can accelerate frontend application design while still requiring human planning, design decisions, and project direction.
 
 ---
 
@@ -11,7 +10,7 @@ This project was created as a computer science finals project and demonstrates h
 
 Students often manage assignments, notes, deadlines, and study resources across multiple disconnected platforms. StudyFlow AI centralizes these workflows into a single dashboard interface.
 
-The platform is designed as a lightweight startup MVP (minimum viable product) focused on usability, accessibility, and polished UI design.
+The platform is designed as a lightweight startup **MVP (minimum viable product)** focused on usability, accessibility, and polished UI design.
 
 ---
 
@@ -52,23 +51,6 @@ The platform is designed as a lightweight startup MVP (minimum viable product) f
 ### Settings
 - Dark mode toggle
 - Notification toggle
-
----
-
-## Tech Stack
-
-- React
-- Tailwind CSS
-
-This project intentionally avoids:
-- Backend development
-- Databases
-- Authentication
-- APIs
-- External chart libraries
-- Routing libraries
-
-This keeps the application lightweight, fast-loading, and computationally efficient.
 
 ---
 
