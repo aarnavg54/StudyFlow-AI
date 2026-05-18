@@ -31,6 +31,7 @@ The platform is designed as a lightweight startup **MVP (minimum viable product)
 
 ### Weekly Schedule
 - Simple schedule overview with upcoming academic events
+![Weekly Schedule](assets/Calendar.png)
 
 ### AI Study Assistant (Simulated)
 - Generate Summary
