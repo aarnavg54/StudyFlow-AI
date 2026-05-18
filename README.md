@@ -49,6 +49,8 @@ The platform is designed as a lightweight startup **MVP (minimum viable product)
 - Subject progress bars
 - Study performance visualization
 
+![Analytics](assets/Analytics.png)
+
 ### Focus Section
 - Daily study goal tracker
 - Completed focus sessions
